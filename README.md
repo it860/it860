@@ -6,6 +6,8 @@ Teeb Al Hayah Commercial Company brings together companies and projects across m
 
 See the [group business sectors](BUSINESS-SECTORS.md).
 
+THCC's website is also available in [Arabic](https://thcc.sa/?lang=ar).
+
 - [THCC](https://thcc.sa/) - Group management and business portfolio
 - [Teeb Al Hayah Environmental Consulting](https://teebalhayah.com/) - Environmental consulting and compliance
 - [Makine](https://makine.sa/) - Operational and commercial solutions
