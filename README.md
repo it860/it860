@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**it860/it860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### THCC Group
 
-Here are some ideas to get you started:
+Teeb Al Hayah Commercial Company brings together companies and projects across multiple sectors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See the [group business sectors](BUSINESS-SECTORS.md).
+
+- [THCC](https://thcc.sa/) - Group management and business portfolio
+- [Teeb Al Hayah Environmental Consulting](https://teebalhayah.com/) - Environmental consulting and compliance
+- [Makine](https://makine.sa/) - Operational and commercial solutions
+- [Makine International](https://makineinternational.com/) - Regional commercial opportunities
+- [Crearoma](https://crearoma.sa/) - Home fragrances, diffusers, and essential oils
+- [QMANCO](https://qmanco.co/) - Quality, operations, and support services
